@@ -1,7 +1,6 @@
 <img align="center" src="https://i.postimg.cc/pdGBwpSX/Myi-Banner.png">
 <h1 align="center">Hey there 👋, I'm Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" width='400" src="![image](https://github.com/rakibislam2233/rakibislam2233/assets/108109446/d238967b-5af2-4f95-9a05-0f9a65df5e07)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibislam2233&label=Profile%20views&color=0e75b6&style=flat" alt="rakibislam2233" /> </p>
 
 - 🌱 I’m currently learning **Next Js,Redux,Typescript**
