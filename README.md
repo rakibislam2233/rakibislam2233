@@ -1,8 +1,7 @@
-<img align="center" src="https://i.postimg.cc/pdGBwpSX/Myi-Banner.png">
+<img align="center" src="[https://i.postimg.cc/pdGBwpSX/Myi-Banner.png](https://i.postimg.cc/Njn0Yk0d/Purple-Modern-Gradient-Designer-Linkedin-Article-Cover-Image.png)">
 <h1 align="center">Hey there 👋, I'm Rakib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="center" src=![image](https://github.com/rakibislam2233/rakibislam2233/assets/108109446/a29e27df-dd5e-4dca-b479-3378e5c8d316)>
-<p align="left"> <img src="https://i.postimg.cc/Njn0Yk0d/Purple-Modern-Gradient-Designer-Linkedin-Article-Cover-Image.png" alt="rakibislam2233" /> </p>
 
 - 🌱 I’m currently learning **Next Js,Redux,Typescript**
 
