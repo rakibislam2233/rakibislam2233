@@ -16,7 +16,7 @@
 <a href="https://twitter.com/rakib500538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakib500538" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-rakib-ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rakib-ali/" height="30" width="40" /></a>
 <a href="https://fb.com/all.rakib.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="all.rakib.39" height="30" width="40" /></a>
-<a href="https://instagram.com/r_a_k_i_b_a_l_i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_k_i_b_a_l_i/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/r_a_k_i_b_i_s_l_m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_k_i_b_a_l_i/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
