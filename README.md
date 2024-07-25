@@ -21,10 +21,10 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:rakibislam2233@gmail.com">
+  <a href="mailto:rakib2020.tkg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/mdrakibali" target="_blank">
+  <a href="https://www.linkedin.com/in/md-rakib-ali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/rakibislam2233" target="_blank">
@@ -43,18 +43,11 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/rakibislam2233/rakibislam2233/blob/output/github-contribution-grid-snake.svg" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibislam2233&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rakibislam2233&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rakibislam2233&theme=midnight-purple&hide_border=true)
 
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibislam2233&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibislam2233&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rakibislam2233&theme=radical&no-frame=true&no-bg=false&margin-w=4)
