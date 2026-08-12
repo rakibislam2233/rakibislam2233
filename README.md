@@ -1,56 +1,80 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MdRakibAli.MdRakibAli&color=blue" />
+<div align="center">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MdRakibAli.MdRakibAli&color=2563EB" alt="visitors" />
+</div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Rakib+Ali!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Rakib+Ali!;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Passionate Full Stack Developer 🇧🇩 </h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on *various web development projects*
- 
- 🌱 I’m currently learning *new web technologies and frameworks*
-
-💬 Ask me about *Node.js, React, MongoDB... or anything [here](https://github.com/MdRakibAli/MdRakibAli/issues)*
-
-⚡ Fun fact: *I love exploring and learning new things*
-
+  💼 Full Stack Developer at **OneLittleWeb**<br>
+  ⚡ Currently focused on the **Cloudflare ecosystem** — Workers, D1, KV, R2, Hyperdrive, Durable Objects, Queues, and Workers AI<br>
+  🛠️ Building full-stack apps with **Next.js, Node.js, Express, PostgreSQL, MongoDB, Drizzle ORM & Prisma**<br>
+  📚 Pursuing a CSE degree alongside professional development work<br>
 </div>
  
+<br/>
+
 <div align="center"> 
   <a href="mailto:rakib2020.tkg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/md-rakib-ali/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/rakibislam2233" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  <a href="https://github.com/MdRakibAli" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,nodejs,express,mongodb,git,github,vscode" />
-</div>
 
-## 🔥  My Stats
+<h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=rakibislam2233&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&border_radius=0" height="160em" alt="stats graph"  /> 
-  <br> -->
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakibislam2233&theme=dark" height="163em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibislam2233&theme=dark" height="163em" /> 
-  <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibislam2233&theme=dark" height="160em" /> 
-  <br>
-  <img src="https://streak-stats.demolab.com?user=rakibislam2233&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  />
+
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,tailwind" alt="Frontend" />
+  <br/>
+
+  <h4>Backend & Database</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,drizzle,mongodb,postgres,redis" alt="Backend & Database" />
+  <br/>
+
+  <h4>Cloudflare</h4>
+  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
+  <br/>
+
+  <h4>Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <br/>
+  <br/>
+  <!-- Custom Badges for tools not natively supported by skillicons -->
+  <img src="https://img.shields.io/badge/GitHub_Desktop-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Antigravity-181717?style=for-the-badge" alt="Antigravity" />
+  <br/>
+
+  <h4>Familiar With</h4>
+  <img src="https://skillicons.dev/icons?i=nginx,linux,docker" alt="Familiar With" />
+  <br/>
+
 </div>
 
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rakibislam2233&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<h2 align="center">🔥 GitHub Analytics</h2>
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdRakibAli&theme=dark" height="160em" alt="Profile Details" /> 
+  <br><br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRakibAli&theme=dark" height="163em" alt="Most Commits" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibAli&theme=dark" height="163em" alt="Repos per Language" /> 
+  <br><br>
+  <!-- Streak Graph -->
+  <img src="https://streak-stats.demolab.com?user=MdRakibAli&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="161em" alt="streak graph"  />
+</div>
