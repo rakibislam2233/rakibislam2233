@@ -37,26 +37,13 @@
 
 <div align="center">
 
-  <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,tailwind" alt="Frontend" />
-  <br/>
-
-  <h4>Backend & Database</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,drizzle,mongodb,postgres,redis" alt="Backend & Database" />
-  <br/>
-
-  <h4>Cloudflare</h4>
-  <img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" />
+  <h4>Skills</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,tailwind,nodejs,express,prisma,drizzle,mongodb,postgres,redis,cloudflare" alt="Frontend" />
   <br/>
 
   <h4>Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cursor,antigravity,claude-code" alt="Tools" />
   <br/>
-  <br/>
-  <!-- Custom Badges for tools not natively supported by skillicons -->
-  <img src="https://img.shields.io/badge/GitHub_Desktop-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Antigravity-181717?style=for-the-badge" alt="Antigravity" />
   <br/>
 
   <h4>Familiar With</h4>
@@ -74,7 +61,4 @@
   <br><br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdRakibAli&theme=dark" height="163em" alt="Most Commits" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdRakibAli&theme=dark" height="163em" alt="Repos per Language" /> 
-  <br><br>
-  <!-- Streak Graph -->
-  <img src="https://streak-stats.demolab.com?user=MdRakibAli&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5" height="161em" alt="streak graph"  />
 </div>
